@@ -1,6 +1,6 @@
 # LinkedList Sorted
 
-I was once came across a question to generate a very simple solution for a basic problem - `LinkedList` in any order (ascending/descending), unfortunately, I could not come up with the solution right away. The issue was that I was not knowing how I should use pointers to handle this manipulation.
+I once came across a question to generate a very simple solution for a basic problem - `LinkedList` in any order (ascending/descending), unfortunately, I could not come up with the solution right away. The issue was that I was not knowing how I should use pointers to handle this manipulation.
 
 The assumption is that we assume that we already have a sorted `LinkedList` and every time a user inserts an element to the `LinkedList`, we put it in a way that the final `LinkedList` that we keep in the storage always remains sorted in any order that we are interested in.
 
